@@ -44,5 +44,6 @@ The proposed system is a web-based application developed using the Java programm
 - **Minimum 2GB RAM:** To ensure smooth performance.
 - **Minimum 1GHz Processor:** Adequate processing power for efficient system operation.
 
-## Flow Chart
-[Include flow chart image or diagram here]
+
+### Contributing
+- **If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Bug reports, feature requests, and feedback are also welcome!
